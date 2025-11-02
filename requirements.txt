@@ -1,0 +1,6 @@
+python-telegram-bot==20.8
+selenium
+pandas
+requests
+openpyxl
+webdriver-manager
